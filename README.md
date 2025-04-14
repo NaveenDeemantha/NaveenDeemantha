@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Naveen
 
-<!--
-**NaveenDeemantha/NaveenDeemantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Engineering undergraduate** from Sri Lanka 👨‍💻  
+Currently diving deep into **Web Development, Laravel, and MERN stack** projects.  
+I also run a clothing brand called **HOOMANS** 🐒 with a wild streetwear vibe.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- 💻 Languages: `Java`, `PHP`, `JavaScript`, `HTML`, `CSS`, `Python`, `SQL`
+- 🧰 Tools: `VS Code`, `XAMPP`, `MySQL`, `Node.js`, `IntelliJ IDEA`, `Git`
+- 🔧 Frameworks: `Laravel`, `Bootstrap`, `jQuery`, `AJAX`
+
+---
+
+## 📂 Projects
+
+- 🛒 **E-commerce Website (PHP + AJAX + MySQL)** – Clothing store system with full user auth, cart, and checkout
+- 🎓 **Student Management System** – Built using REST API + JSON + AJAX
+- 💼 **CRM in Laravel** – Customer, Invoice & Proposal management with Stripe integration
+
+---
+
+> 🧠 _"Wear the Wild. Own the Streets."_ – Founder of HOOMANS  
+> 🌱 Always learning. Always building.
