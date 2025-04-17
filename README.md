@@ -2,8 +2,7 @@
 
 I'm a passionate **Software Engineering undergraduate** from Sri Lanka 👨‍💻  
 Currently diving deep into **Web Development, Laravel, and MERN stack** projects.  
-I also run a clothing brand called **HOOMANS** 🐒 with a wild streetwear vibe.
-
+       
 ---
 
 ## 🛠️ Tech Stack
