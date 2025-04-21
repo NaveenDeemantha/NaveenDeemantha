@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Naveen
 
 I'm a passionate **Software Engineering undergraduate** from Sri Lanka 👨‍💻  
-Currently diving deep into **Web Development, Laravel, and MERN stack** projects.  
+Currently diving deep into **Web Development, Laravel projects.  
        
 ---
 
