@@ -21,5 +21,5 @@ Currently diving deep into **Web Development, Laravel projects.
 
 ---
 
-> 🧠 _"Wear the Wild. Own the Streets."_ – Founder of HOOMANS  
+
 > 🌱 Always learning. Always building.
