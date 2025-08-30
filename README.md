@@ -7,33 +7,44 @@ Currently diving deep into **Web Development & Laravel projects**.
 
 ## 🛠️ Tech Stack  
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
-</p>
-
-<p align="center">
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-</p>
-
-<p align="center">
-  <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50" height="50"/>
-  <img src="https://img.shields.io/badge/AJAX-007FFF?style=for-the-badge&logo=javascript&logoColor=white" height="30"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+      <br>Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
+      <br>PHP
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="50"/>
+      <br>Laravel
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+      <br>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+      <br>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+      <br>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+      <br>VS Code
+    </td>
+  </tr>
+</table>
 
 
 ## 📂 Projects  
