@@ -60,10 +60,6 @@ Currently diving deep into **Web Development & Laravel projects**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenDeemantha&layout=compact&theme=tokyonight" height="150" />
 </p>
 
-## 🎬 Coding Vibes  
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF" align="center">  
-
----
 
 🌱 *Always learning. Always building.*  
