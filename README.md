@@ -52,17 +52,17 @@ Currently diving deep into **Web Development & Laravel projects**.
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaveenDeemantha&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenDeemantha&layout=compact&theme=tokyonight)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=NaveenDeemantha&theme=tokyonight)  
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NaveenDeemantha&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenDeemantha&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenDeemantha&layout=compact&theme=tokyonight" height="150" />
+</p>
 
 ## 🎬 Coding Vibes  
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF">  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF" align="center">  
 
 ---
 
