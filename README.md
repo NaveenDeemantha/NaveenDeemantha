@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naveen  
 
-I'm a passionate **Software Engineering undergraduate** from Sri Lanka 👨‍💻  
+I'm a passionate **Software Engineering 1st Class graduate** from Sri Lanka 👨‍💻  
 Currently diving deep into **Web Development & Laravel projects**.  
 
 ---
